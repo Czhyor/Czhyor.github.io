@@ -1,1 +1,1 @@
-document.write("it's a javascript output!!!")
+console.log("it's a javascript output!!!")
